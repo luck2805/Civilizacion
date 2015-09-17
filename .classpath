@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/bcmail-jdk14-136.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/bcprov-jdk14-136.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/commons-beanutils-1.8.0.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/itext-2.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/jasperreports-3.5.3.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/jcommon-1.0.15.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/jdtcore-3.1.0.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/jfreechart-1.0.12.jar"/>
+	<classpathentry kind="lib" path="/home/blas/Descargas/librerias jasper/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
